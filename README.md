@@ -10,6 +10,12 @@ v2.php：在v1的基础上修正+只喂食暮光闪闪
 
 ### 安装
 
+clone本项目：
+
+	cd /path/to/
+	git clone https://github.com/juzeon/playPony.git
+	cd playPony/
+
 新建`config.php`文件，填入：
 
 ```
