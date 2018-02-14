@@ -19,6 +19,7 @@ clone本项目：
 新建`config.php`文件，填入：
 
 ```
+<?php
 define('QQNUM', 'QQ号');
 define('SKEY', 'QQ空间skey');
 define('PSKEY', 'QQ空间p_skey');
